@@ -1,0 +1,48 @@
+[submodule "WP1"]
+	path = WP1
+	url = https://github.com/SafeCOP/WP1.git
+	branch = release
+[submodule "WP2"]
+	path = WP2
+	url = https://github.com/SafeCOP/WP2.git
+	branch = release
+[submodule "WP3"]
+	path = WP3
+	url = https://github.com/SafeCOP/WP3.git
+	branch = release
+[submodule "WP4"]
+	path = WP4
+	url = https://github.com/SafeCOP/WP4.git
+	branch = release
+[submodule "WP5"]
+	path = WP5
+	url = https://github.com/SafeCOP/WP5.git
+	branch = release
+[submodule "WP6"]
+	path = WP6
+	url = https://github.com/SafeCOP/WP6.git
+	branch = release
+[submodule "UC1"]
+	path = UC1
+	url = https://github.com/SafeCOP/UC1.git
+	branch = release
+[submodule "UC2"]
+	path = UC2
+	url = https://github.com/SafeCOP/UC2.git
+	branch = release
+[submodule "UC3"]
+	path = UC3
+	url = https://github.com/SafeCOP/UC3.git
+	branch = release
+[submodule "UC4"]
+	path = UC4
+	url = https://github.com/SafeCOP/UC4.git
+	branch = release
+[submodule "UC5"]
+	path = UC5
+	url = https://github.com/SafeCOP/UC5.git
+	branch = release
+[submodule "UC6"]
+	path = UC6
+	url = https://github.com/SafeCOP/UC6.git
+	branch = release
